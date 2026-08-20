@@ -31,7 +31,7 @@ int main (){
      }
     cout<<"*";
      
-     if (i!=n-1){
+     if (i!=n-2){
           for(int j=0;j<2*(n-i)-5;j++){
             cout<<" ";
           }
